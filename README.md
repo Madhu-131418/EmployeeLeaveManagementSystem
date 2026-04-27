@@ -1,4 +1,4 @@
-📌 1. Project Title
+##📌 1. Project Title
 Employee Leave Management System
 A backend REST API application built using Spring Boot to manage employees, departments, leave requests, and approvals.
 ------------------------------------------------------------------------------------

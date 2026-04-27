@@ -19,8 +19,7 @@ A production-ready **RESTful API** built with **Spring Boot 3** for managing emp
 - [Data Models](#data-models)
 - [Exception Handling](#exception-handling)
 - [Swagger Documentation](#swagger-documentation)
-- [Contributing](#contributing)
-- [License](#license)
+- [Author](#author)
 
 ---
 
@@ -342,17 +341,9 @@ The OpenAPI JSON spec is available at:
 http://localhost:8080/leaveapi/v3/api-docs
 ```
 
----
+## 👨‍💻 Author
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/your-feature-name`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature-name`)
-5. Open a Pull Request
+**Madhu**
+- Built with passion using Spring Boot 3 & Java 17
 
 ---
-

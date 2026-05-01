@@ -343,7 +343,8 @@ http://localhost:8080/leaveapi/v3/api-docs
 
 ## 👨‍💻 Author
 
-**Madhu**
+**Venkata Madhu Thota**
+GitHub: [@VenkataMadhuThota](https://github.com/VenkataMadhuThota)
 - Built with passion using Spring Boot 3 & Java 17
 
 ---
